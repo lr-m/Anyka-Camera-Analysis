@@ -8,6 +8,12 @@
 
 This is a repository containing proof-of-concept exploits for getting a remote reverse shell while the Anyka camera is hosting hotspot (cheap Aliexpress camera's mostly). Also contains scripts for interacting with various open ports on the device.
 
+## Blogs
+
+[Analysing a Wireless Network Camera [1]: Teardown and Access Point Bugs](https://luke-m.xyz/vr/analysing_a_wireless_network_camera_part_1.md)
+
+[Analysing a Wireless Network Camera [2]: Popping Shells](https://luke-m.xyz/vr/analysing_a_wireless_network_camera_part_2.md)
+
 ## *daemon*
 
 These exploits/PoCs concern the daemon process running on the camera.
